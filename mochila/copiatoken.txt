@@ -1,0 +1,63 @@
+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
+
+
+
+
+
+
+<script src="https://kit.fontawesome.com/e763edabc8.js" crossorigin="anonymous"></script>
+
+
+
+
+
+echo "# camada5" >> README.md git init git add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Andru890/camada5.gitgit push -u origin main
+
+
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~
+$ pwd
+/c/Users/Andres
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~
+$ cd escritorio 
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/escritorio
+$ cd mochilamia
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/escritorio/mochilamia (main)
+$ cd mochilac5
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/escritorio/mochilamia/mochilac5 (andrespistone)
+$ cd clase3
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/escritorio/mochilamia/mochilac5/clase3 (andrespistone)
+$ git add  .
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/escritorio/mochilamia/mochilac5/clase3 (andrespistone)
+$ git commit -m "ejercicio clase 3 pistone"
+[andrespistone e359f33] ejercicio clase 3 pistone
+ 3 files changed, 95 insertions(+)
+ create mode 100644 clase3/clase3 pistone/primera parte.txt
+ create mode 100644 clase3/clase3 pistone/segunda parte.txt
+ create mode 100644 clase3/clase3 pistone/tercera parte.txt
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/escritorio/mochilamia/mochilac5/clase3 (andrespistone)
+$ git push -u origin andrespistone
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 1.21 KiB | 619.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0       
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+remote: 
+remote: Create a pull request for 'andrespistone' on GitHub by visiting:
+remote:      https://github.com/lpasteris/mochilaC5/pull/new/andrespistone
+remote:
+To https://github.com/lpasteris/mochilaC5.git
+ * [new branch]      andrespistone -> andrespistone
+branch 'andrespistone' set up to track 'origin/andrespistone'.
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/escritorio/mochilamia/mochilac5/clase3 (andrespistone)
+$
